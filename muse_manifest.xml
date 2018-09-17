@@ -1,25 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paroxid.com" resolutions="1x,2x" timestamp="1537135854231">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paroxid.com" resolutions="1x,2x" timestamp="1537175349414">
   <folder name="css">
     <file name="site_global.css" crc="4006088058"/>
-    <file name="afb.css" crc="68046920" ref="afb"/>
-    <file name="nomq_afb.css" crc="4122474087" ref="afb"/>
-    <file name="index.css" crc="3886599637" ref="index"/>
-    <file name="nomq_index.css" crc="503876344" ref="index"/>
-    <file name="jpg.css" crc="382535623" ref="jpg"/>
-    <file name="nomq_jpg.css" crc="155211429" ref="jpg"/>
-    <file name="rog.css" crc="3846741585" ref="rog"/>
-    <file name="nomq_rog.css" crc="4102855098" ref="rog"/>
-    <file name="me.css" crc="4145227229" ref="me"/>
-    <file name="nomq_me.css" crc="257941078" ref="me"/>
-    <file name="bonb.css" crc="4130780341" ref="bonb"/>
-    <file name="nomq_bonb.css" crc="329618714" ref="bonb"/>
-    <file name="jka.css" crc="3772756316" ref="jka"/>
-    <file name="nomq_jka.css" crc="264037180" ref="jka"/>
-    <file name="kiso.css" crc="3863112860" ref="kiso"/>
-    <file name="nomq_kiso.css" crc="451225753" ref="kiso"/>
-  </folder>
-  <folder name="assets">
-    <file name="samplegif.gif" crc="137610747" seo="true" mt="1393587374000"/>
+    <file name="index.css" crc="3995038719" ref="index"/>
+    <file name="nomq_index.css" crc="3927484597" ref="index"/>
+    <file name="kiso.css" crc="139738420" ref="kiso"/>
+    <file name="nomq_kiso.css" crc="304132262" ref="kiso"/>
+    <file name="jka.css" crc="4278929754" ref="jka"/>
+    <file name="nomq_jka.css" crc="197508196" ref="jka"/>
+    <file name="bonb.css" crc="3762929715" ref="bonb"/>
+    <file name="nomq_bonb.css" crc="4268916776" ref="bonb"/>
+    <file name="afb.css" crc="3820810032" ref="afb"/>
+    <file name="nomq_afb.css" crc="444639640" ref="afb"/>
+    <file name="me.css" crc="209386983" ref="me"/>
+    <file name="nomq_me.css" crc="4069517530" ref="me"/>
+    <file name="rog.css" crc="4024500221" ref="rog"/>
+    <file name="nomq_rog.css" crc="4009083000" ref="rog"/>
+    <file name="jpg.css" crc="7195118" ref="jpg"/>
+    <file name="nomq_jpg.css" crc="3938666975" ref="jpg"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jka:afb:rog:bonb:kiso:jpg:me"/>
@@ -978,12 +975,12 @@
     </file>
     <file name="lebenslauf_poster_.png" crc="73830807" ref="me"/>
   </folder>
-  <file name="index.html" crc="4012275638" seo="true" mt="1537097809771" redirect="true"/>
-  <file name="jka.html" crc="4042606066" seo="true" mt="1537098026191" redirect="true"/>
-  <file name="afb.html" crc="4186226223" seo="true" mt="1537097392699" redirect="true"/>
-  <file name="rog.html" crc="176635442" seo="true" mt="1537098231902" redirect="true"/>
-  <file name="bonb.html" crc="454754109" seo="true" mt="1537098302792" redirect="true"/>
-  <file name="kiso.html" crc="306627456" seo="true" mt="1537098376474" redirect="true"/>
-  <file name="jpg.html" crc="4109322687" seo="true" mt="1537104725979" redirect="true"/>
-  <file name="me.html" crc="4232843437" seo="true" mt="1537098599950" redirect="true"/>
+  <file name="index.html" crc="4258565299" seo="true" mt="1537175301892" redirect="true"/>
+  <file name="jka.html" crc="4067736055" seo="true" mt="1537098026191" redirect="true"/>
+  <file name="afb.html" crc="4198694329" seo="true" mt="1537097392699" redirect="true"/>
+  <file name="rog.html" crc="34266153" seo="true" mt="1537098231902" redirect="true"/>
+  <file name="bonb.html" crc="4209962145" seo="true" mt="1537098302792" redirect="true"/>
+  <file name="kiso.html" crc="15824087" seo="true" mt="1537098376474" redirect="true"/>
+  <file name="jpg.html" crc="3959918052" seo="true" mt="1537104725979" redirect="true"/>
+  <file name="me.html" crc="4195871879" seo="true" mt="1537098599950" redirect="true"/>
 </manifest>
