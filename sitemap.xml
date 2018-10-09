@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://paroxid.com/index.html</loc>
-    <lastmod>2018-09-28</lastmod>
+    <lastmod>2018-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -153,6 +153,9 @@
       <image:loc>http://paroxid.com/images/0095.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://paroxid.com/images/0105.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://paroxid.com/images/0016.jpg</image:loc>
     </image:image>
     <image:image>
@@ -180,7 +183,7 @@
       <image:loc>http://paroxid.com/images/0096.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paroxid.com/images/0105.jpg</image:loc>
+      <image:loc>http://paroxid.com/images/0106.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://paroxid.com/images/0017.jpg</image:loc>
@@ -210,7 +213,7 @@
       <image:loc>http://paroxid.com/images/0097.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paroxid.com/images/0106.jpg</image:loc>
+      <image:loc>http://paroxid.com/images/0107.jpg</image:loc>
     </image:image>
   </url>
   <url>
