@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://paroxid.com/index.html</loc>
-    <lastmod>2018-10-09</lastmod>
+    <lastmod>2018-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -218,13 +218,13 @@
   </url>
   <url>
     <loc>http://paroxid.com/jka.html</loc>
-    <lastmod>2018-09-16</lastmod>
+    <lastmod>2018-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://paroxid.com/afb.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -239,10 +239,13 @@
     <image:image>
       <image:loc>http://paroxid.com/images/afb579x326.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://paroxid.com/images/afb427x241.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://paroxid.com/rog.html</loc>
-    <lastmod>2018-09-16</lastmod>
+    <lastmod>2018-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -269,16 +272,22 @@
     <image:image>
       <image:loc>http://paroxid.com/images/rog02579x326.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://paroxid.com/images/rog01427x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paroxid.com/images/rog02427x241.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://paroxid.com/bonb.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://paroxid.com/kiso.html</loc>
-    <lastmod>2018-09-16</lastmod>
+    <lastmod>2018-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -293,13 +302,13 @@
   </url>
   <url>
     <loc>http://paroxid.com/jpg.html</loc>
-    <lastmod>2018-09-30</lastmod>
+    <lastmod>2018-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://paroxid.com/me.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
